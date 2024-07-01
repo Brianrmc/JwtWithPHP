@@ -1,0 +1,11 @@
+{
+    "name": "bmanriquez/jwt-example",
+    "autoload": {
+        "psr-4": {
+            "Bmanriquez\\JwtExample\\": "src/"
+        }
+    },
+    "require": {
+        "firebase/php-jwt": "^6.10"
+    }
+}
